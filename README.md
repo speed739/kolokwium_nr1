@@ -1,1 +1,0 @@
-# kolokwium_nr1
