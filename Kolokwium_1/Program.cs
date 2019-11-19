@@ -46,7 +46,6 @@ namespace Kolokwium_1
             return y;
         }
 
-
         static void Main(string[] args)
         {
 
